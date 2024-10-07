@@ -1,0 +1,2 @@
+https://www.programiz.com/online-compiler/0xPPns66Urjrm 
+// ^ lookup table that counts number of occurences of a small alphabet
