@@ -1,2 +1,4 @@
 https://www.programiz.com/online-compiler/0xPPns66Urjrm 
 // ^ lookup table that counts number of occurences of a small alphabet
+https://www.programiz.com/online-compiler/2I9i3Oz6mb1O6
+// ^ this contains ways to create prefix sum array from a array of int
